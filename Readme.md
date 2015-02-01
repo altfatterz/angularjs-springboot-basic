@@ -1,0 +1,1 @@
+[ ![Codeship Status for altfatterz/angularjs-springboot-basic](https://codeship.com/projects/3ed5e2c0-8bd3-0132-f9f5-328ae7f2fceb/status?branch=master)](https://codeship.com/projects/60374)
